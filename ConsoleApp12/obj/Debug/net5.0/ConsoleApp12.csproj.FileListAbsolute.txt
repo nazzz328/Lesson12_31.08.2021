@@ -1,0 +1,16 @@
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.exe
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.deps.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.runtimeconfig.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ref\ConsoleApp12.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ref\ConsoleApp12.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\HomeWork12_31.08.2021\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.genruntimeconfig.cache
